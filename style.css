@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Lock Fishing | Premium JDM Line Co.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">FULL LOCK FISHING</div>
+        <p class="tagline">Premium JDM-Grade Line Built for the Ultimate Test</p>
+    </header>
+
+    <main class="container">
+        <section class="intro">
+            <h2>Hammered Drags. Sharp Bricks. Absolute Limits.</h2>
+            <p>We are sourcing premium Japanese PE braid and raw fluorocarbon materials built to withstand the most brutal Kiwi coastlines. No weak knots. No early snaps.</p>
+        </section>
+
+        <section class="products">
+            <div class="product-card">
+                <h3>FULL LOCK X8</h3>
+                <p class="product-tag">Cast Braid</p>
+                <p>Silky smooth 8-strand PE optimized for max distance softbaiting, topwater, and jigging.</p>
+            </div>
+            
+            <div class="product-card">
+                <h3>FULL LOCK X4</h3>
+                <p class="product-tag">Ledge Braid</p>
+                <p>Coarse, high-abrasion 4-strand PE built for rock hopping, surfcasting, and shallow reef grinding.</p>
+            </div>
+
+            <div class="product-card">
+                <h3>TOUGH TRACE</h3>
+                <p class="product-tag">Fluorocarbon Leader</p>
+                <p>Rigid, invisible JDM fluorocarbon shock leader designed to survive heavy structure wraps.</p>
+            </div>
+        </section>
+
+        <section class="status">
+            <h3>Current Status: Sourcing Bulk Samples</h3>
+            <p>Website and brand active development. Field testing on local ledges starting soon.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Full Lock Fishing Co. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
